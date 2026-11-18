@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Captain Helper</string>
+    <string name="accessibility_service_label">Captain Helper Auto-Accept</string>
+    <string name="accessibility_service_description">Automatically accepts Rapido Captain and RedTaxi Driver orders with fare of ₹100 or above.</string>
+</resources>
